@@ -1,2 +1,3 @@
-# smart-game-engine-b329
-Automated issue comment bot repository
+# Smart Game Engine B329
+
+Automated issue comment bot repository.
